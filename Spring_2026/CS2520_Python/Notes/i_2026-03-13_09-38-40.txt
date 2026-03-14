@@ -1,0 +1,35 @@
+Script started on 2026-03-13 09:38:40+00:00 [COMMAND="python3" TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="13"]
+Python 3.12.1 (main, Nov 27 2025, 10:47:52) [GCC 13.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> help
+Type help() for interactive help, or help(object) for help about object.
+>>> help()
+Welcome to Python 3.12's help utility! If this is your first time using
+Python, you should definitely check out the tutorial at
+https://docs.python.org/3.12/tutorial/.
+
+Enter the name of any module, keyword, or topic to get help on writing
+Python programs and using Python modules.  To get a list of available
+modules, keywords, symbols, or topics, enter "modules", "keywords",
+"symbols", or "topics".
+
+Each module also comes with a one-line summary of what it does; to list
+the modules whose name or summary contain a given string such as "spam",
+enter "modules spam".
+
+To quit this help utility and return to the interpreter,
+enter "q" or "quit".
+
+help> q
+
+You are now leaving help and returning to the Python interpreter.
+If you want to ask for help on a particular object directly from the
+interpreter, you can type "help(object)".  Executing "help('string')"
+has the same effect as typing a particular string at the help> prompt.
+>>> q
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'q' is not defined
+>>> exit()
+
+Script done on 2026-03-13 09:38:59+00:00 [COMMAND_EXIT_CODE="0"]

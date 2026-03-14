@@ -1,0 +1,85 @@
+Script started on 2026-03-14 02:54:11+00:00 [COMMAND="python3" TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="57" LINES="15"]
+Python 3.12.1 (main, Nov 27 2025, 10:47:52) [GCC 13.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> def count_vowels(text):
+...     count=0
+...     for char in text.lower():
+...             if char in "aeiou":
+...                     count +=1
+...     return count
+... 
+>>> def count_vowels(text):
+...     count = 0
+...     for char in text.lower():
+...         if char in "aeiou":
+...             count += 1
+...     return count
+... 
+>>> 
+>>> count_vowels("Hello World")
+3
+>>> m[K""m"[C in "aeiou:
+  File "<stdin>", line 1
+    "m" in "aeiou:
+           ^
+SyntaxError: unterminated string literal (detected at line 1)
+>>> "m" in "aeiou:[K
+  File "<stdin>", line 1
+    "m" in "aeiou
+           ^
+SyntaxError: unterminated string literal (detected at line 1)
+>>> "m" in "aeiou"
+False
+>>> "m" in "aeiou"[1P[1@e
+True
+>>> "e" in "aeiou"[1P[1@o
+True
+>>> "o" in "aeiou"[C[1P[1@w
+False
+>>> e(5)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'e' is not defined
+>>> e(5)[Kcount=0
+>>> t[Ktext="jhFj [KEknfkEbjd jdfdhek"
+>>> count=0
+>>> text[0]
+'j'
+>>> text[0] in text
+True
+>>> text_lower=text.lower()
+>>> for x in text_lower():
+...     print(x)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'str' object is not callable
+>>>     print(x)[C[C[C[Cfor x in text_lower():[1P:[1P:[C
+...     print(x)
+... 
+j
+h
+f
+j
+e
+k
+n
+f
+k
+e
+b
+j
+d
+ 
+j
+d
+f
+d
+h
+e
+k
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
+>>> exit()
+
+Script done on 2026-03-14 03:02:26+00:00 [COMMAND_EXIT_CODE="0"]

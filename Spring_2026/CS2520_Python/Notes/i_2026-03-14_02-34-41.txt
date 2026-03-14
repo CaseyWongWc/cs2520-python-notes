@@ -1,0 +1,160 @@
+Script started on 2026-03-14 02:34:41+00:00 [COMMAND="python3" TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="200" LINES="5"]
+Python 3.12.1 (main, Nov 27 2025, 10:47:52) [GCC 13.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> a=1
+>>> ```Write a function called count_vowels(text) that returns the number of vowels (a, e, i, o, u) in the string. Count both uppercase and lowercase. Example: count_vowels("Hello World") → 3```
+  File "<stdin>", line 1
+    ```Write a function called count_vowels(text) that returns the number of vowels (a, e, i, o, u) in the string. Count both uppercase and lowercase. Example: count_vowels("Hello World") → 3```
+    ^
+SyntaxError: invalid syntax
+>>> print()[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K```Write a function called count_vowels(text) that returns the number of vowels (a, e, i, o, u) in the string. Count both uppercase and lowercase. Example: count_vowels("Hello World") → 3```[A[A[A[C[C[C[C[K
+[K
+[K
+[K[A[A[A[C[C[C[Csdfdsf[K[K[K[K[K[KAAA[K[K[Kdef[K[K[Kimport random
+>>> random()[Crandom()[C[C[C[C[Carandom()[C[C[C[C[C[Cnrandom()drandom()orandom()mrandom().random()
+0.27491996570162325
+>>> def e(length):
+...     chars = string.ascii_letters + string.digits  # a-zA-Z0-9
+...     return ''.join(random.choice(chars) for _ in range(length))
+... #[K
+>>> #this wasnt made by me o[Klol
+>>> #this wasnt made by me lol[C[C[C[C    return ''.join(random.choice(chars) for _ in range(length))[Achars = string.ascii_letters + string.digits  # a-[2PzA-Z0-9[Adef e(length):[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crandom.random()[C[C[C[C[2Pimport random[C[C[C[Crandom.random()[C[C[C[C[1Pdef e(length):[C[C[C[C    chars = string.ascii_letters + string.digits  # a-zA-Z0-9[Adef e(length):[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+... def e(length):[C[C[C[C#this wasnt made by me lol[C[C[C[C    return ''.join(random.choice(chars) for _ in range(length))[Achars = string.ascii_letters + string.digits  # a-[2PzA-Z0-9[C[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  # a-z[1PA-Z[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  # a-zA[1P-Z[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  # a-zA-[1PZ[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  # a-zA-Z[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  # a-zA-Z [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[C[1P[1P[C[1P
+...     chars = string.ascii_letters  # a-zA-Z[C[C[C[C[28Pdef e(length):[C[C[C[C#this wasnt made by me lol[C[C[C[C    return ''.join(random.choice(chars) for _ in range(length))
+... 
+>>> #okay
+>>> e(5
+... )
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 2, in e
+NameError: name 'string' is not defined. Did you forget to import 'string'?
+>>> e(5)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 2, in e
+NameError: name 'string' is not defined. Did you forget to import 'string'?
+>>> import string
+>>> e(5)
+'lkOoe'
+>>> ok[K[K"OKAY"
+'OKAY'
+>>> def s():
+... return e(5)
+  File "<stdin>", line 2
+    return e(5)
+    ^
+IndentationError: expected an indented block after function definition on line 1
+>>> return e(5)[C[C[C[C[3Pdef s():
+...     e(5)
+... 
+>>> s()
+>>> s()    e(5)[C[C[C[Cdef s():
+...     return e(5)
+... 
+>>> s()
+'RuyZG'
+>>> print()s)()[C).)l)o)w)e)r)()[C)
+qzloe
+>>> print(s().lower())
+aftdw
+>>> print(s().lower())
+ifajg
+>>> print(s().lower())[K[1P)[1P)[1P)[1P)[1P)[1P)[1P)
+OuiAS
+>>> print(s()).lower())[1P())[1P())[1P())[1P())[1P())u())p())p())e())r())
+ZOMDE
+>>> print(s().upper())
+GLMTH
+>>> "okay yeah got it"
+'okay yeah got it'
+>>> s="he[K[KThello the Great Thane is Very Great"
+>>> s
+'Thello the Great Thane is Very Great'
+>>> s.replace()") )")[C,)")")
+'ThellotheGreatThaneisVeryGreat'
+>>> s.lower()
+'thello the great thane is very great'
+>>> s.replace()") )"),)")")[C[C[1@.[1@l[1@o[1@w[1@e[1@e[1@r[1@([1@)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'str' object has no attribute 'loweer'. Did you mean: 'lower'?
+>>> s.loweer().replace(" ","")[C[1P
+'thellothegreatthaneisverygreat'
+>>> print()[K[K[K[K[K[K[Ktime()[K[K[K[K[K[K0[Ktime()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'time' is not defined. Did you forget to import 'time'?
+>>> ```[K[K[Kprint()[K[K[K[K[K[K[K```[K[K[K"""lkfhdaskljf"""
+'lkfhdaskljf'
+>>> s()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'str' object is not callable
+>>> e()5)te(5)[Ce(5)se(5)te(5)=e(5)
+>>> test
+'yuGaT'
+>>> test=[K.lower()
+'yugat'
+>>> test
+'yuGaT'
+>>> test=[K.lower()[K=e(5)[C[C[C[C[6Ps()test=e(5)[K.lower()[K=test.lower()
+>>> test
+'yugat'
+>>> for x in test[1@,[1@y[C[C[C[C[C[C[C[C,[a[K""a"[C,"e","i","o","u"]:
+...     print(x)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: too many values to unpack (expected 2)
+>>>     print(x)[C[C[C[Cfor x,y in test,["a","e","i","o","u"]:[C[C[C[C    print(x)[K,)y)
+  File "<stdin>", line 1
+    print(x,y)
+IndentationError: unexpected indent
+>>>     print(x,y)[2P)[C[C[C[Cfor x,y in test,["a","e","i","o","u"]:
+...     print(x,y)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: too many values to unpack (expected 2)
+>>> for _ in test[K[K[K[K[K[K[K[K[Ktest in "aeiou":
+...     prnt[K[Kint(test[K[K[Kest)
+... 
+a
+e
+i
+o
+u
+>>> test
+'u'
+>>> test=e(5).lower()
+>>> test
+'kqysb'
+>>> test=e(5).lower()[C[C[C[C[C[C[C[C[K    print(test)[C[C[C[Cfor test in "aeiou":
+... print()t)e)s)t)[C
+  File "<stdin>", line 2
+    print(test)
+    ^
+IndentationError: expected an indented block after 'for' statement on line 1
+>>> 
+>>> print(test)[C[C[C[Cfor test in "aeiou":
+...     print(test)
+... 
+a
+e
+i
+o
+u
+>>> test
+'u'
+>>> test    print(test)[C[C[C[Cfor test in "aeiou":[C[C[C[C[9Pprint(test)[C[C[C[Cfor test in "aeiou":[C[C[C[Ctest[K=e(5).lower()
+>>> test
+'ushpj'
+>>> "yeah this is a bad idea"
+'yeah this is a bad idea'
+>>> exit()
+
+Script done on 2026-03-14 02:52:04+00:00 [COMMAND_EXIT_CODE="0"]
